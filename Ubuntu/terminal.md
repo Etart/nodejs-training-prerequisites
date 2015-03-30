@@ -62,6 +62,12 @@ Then install a handy command line program called `curl`, which we'll use in a se
 sudo apt-get install -y curl
 ```
 
+Then download and install the new Terminal Profile.
+
+```
+curl -fsSL https://raw.githubusercontent.com/Adron/nodejs-training-prerequisites/master/Ubuntu/term-tomorrow.sh | sh
+```
+
 Then navigate to the Terminal's `Edit > Profiles` menu item.
 
 ![prompt](../assets/ubuntu-04.png)
