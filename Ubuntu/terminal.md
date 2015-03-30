@@ -65,7 +65,7 @@ sudo apt-get install -y curl
 Then download and install the new Terminal Profile.
 
 ```
-curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSL https://raw.githubusercontent.com/Adron/nodejs-training-prerequisites/master/Ubuntu/term-tomorrow.sh | sh
 ```
 
 Then navigate to the Terminal's `Edit > Profiles` menu item.
